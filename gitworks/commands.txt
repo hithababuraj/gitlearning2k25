@@ -9,3 +9,5 @@ git commit -m "commit message"=>
 git config --global user.name "username"
 
 git config --global user.email "email"
+
+git push remote_name branch_name(master/main)

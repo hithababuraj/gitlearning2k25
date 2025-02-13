@@ -1,0 +1,11 @@
+git init => for initoalizing the git repository
+
+git status=> list all untraked files 
+
+git add-A=>adding all untracked files
+
+git commit -m "commit message"=>
+
+git config --global user.name "username"
+
+git config --global user.email "email"
